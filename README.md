@@ -1,18 +1,18 @@
 # Autotrader App
 
 <p>
-  <img src="https://github.com/arbabhussain7/Autotrader/assets/135390371/62b0dbfc-bb7e-472f-90b5-138b69df1d66" alt="Image 1" style="margin-right: 20px; margin-bottom: 20px;">
-  <img src="https://github.com/arbabhussain7/Autotrader/assets/135390371/34cbf8f2-8224-423f-81ce-f3d6bd23b5b4" alt="Image 2" style="margin-right: 20px; margin-bottom: 20px;">
-  <img src="https://github.com/arbabhussain7/Autotrader/assets/135390371/25a1bdc6-8bc9-46e5-843f-ed7387781145" alt="Image 3" style="margin-bottom: 20px;">
+  <img src="https://github.com/arbabhussain7/Autotrader/assets/135390371/62b0dbfc-bb7e-472f-90b5-138b69df1d66" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%">
+  <img src="https://github.com/arbabhussain7/Autotrader/assets/135390371/34cbf8f2-8224-423f-81ce-f3d6bd23b5b4" alt="Image 2" style="margin-right: 10px; margin-bottom: 10px;" width="30%">
+  <img src="https://github.com/arbabhussain7/Autotrader/assets/135390371/25a1bdc6-8bc9-46e5-843f-ed7387781145" alt="Image 3" style="margin-bottom: 10px;" width="30%">
 </p>
 <p>
-  <img src="https://github.com/arbabhussain7/Autotrader/assets/135390371/939514f7-d4b8-4cb4-b83a-1c11833a3542" alt="Image 4" style="margin-right: 20px; margin-bottom: 20px;">
-  <img src="https://github.com/arbabhussain7/Autotrader/assets/135390371/abfe48bf-0036-48f1-b9d0-3f71013a40d7" alt="Image 5" style="margin-right: 20px; margin-bottom: 20px;">
-  <img src="https://github.com/arbabhussain7/Autotrader/assets/135390371/3e3e1129-90bb-4ad9-933c-f59c6f07155b" alt="Image 6" style="margin-bottom: 20px;">
+  <img src="https://github.com/arbabhussain7/Autotrader/assets/135390371/939514f7-d4b8-4cb4-b83a-1c11833a3542" alt="Image 4" style="margin-right: 10px; margin-bottom: 10px;" width="30%">
+  <img src="https://github.com/arbabhussain7/Autotrader/assets/135390371/abfe48bf-0036-48f1-b9d0-3f71013a40d7" alt="Image 5" style="margin-right: 10px; margin-bottom: 10px;" width="30%">
+  <img src="https://github.com/arbabhussain7/Autotrader/assets/135390371/3e3e1129-90bb-4ad9-933c-f59c6f07155b" alt="Image 6" style="margin-bottom: 10px;" width="30%">
 </p>
 <p>
-  <img src="https://github.com/arbabhussain7/Autotrader/assets/135390371/d8f0cd67-f767-4913-aed2-a95deb29da75" alt="Image 7" style="margin-right: 20px;">
-  <img src="https://github.com/arbabhussain7/Autotrader/assets/135390371/8ebc20e9-f53b-4243-a2a0-6b20617daf0e" alt="Image 8" style="margin-right: 20px;">
+  <img src="https://github.com/arbabhussain7/Autotrader/assets/135390371/d8f0cd67-f767-4913-aed2-a95deb29da75" alt="Image 7" style="margin-right: 10px;" width="30%">
+  <img src="https://github.com/arbabhussain7/Autotrader/assets/135390371/8ebc20e9-f53b-4243-a2a0-6b20617daf0e" alt="Image 8" style="margin-right: 10px;" width="30%">
 </p>
 
 
