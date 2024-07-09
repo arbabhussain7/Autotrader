@@ -1,7 +1,7 @@
 # Autotrader App
 
-![image](https://github.com/arbabhussain7/Autotrader/assets/135390371/62b0dbfc-bb7e-472f-90b5-138b69df1d66)
-![image](https://github.com/arbabhussain7/Autotrader/assets/135390371/b53694d1-50d5-4c89-a539-549b8ad5203d)
+![image](https://github.com/arbabhussain7/Autotrader/assets/135390371/62b0dbfc-bb7e-472f-90b5-138b69df1d66)                                              
+![image](https://github.com/arbabhussain7/Autotrader/assets/135390371/b53694d1-50d5-4c89-a539-549b8ad5203d)                                         
 ![image](https://github.com/arbabhussain7/Autotrader/assets/135390371/25a1bdc6-8bc9-46e5-843f-ed7387781145)
 
 
